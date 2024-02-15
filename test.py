@@ -1,1 +1,1 @@
-print("commit")
+print("commit and push")
